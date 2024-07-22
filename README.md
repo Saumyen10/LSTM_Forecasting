@@ -10,4 +10,5 @@
 ![2](https://github.com/user-attachments/assets/3f76f8e5-f921-4590-97c9-bbe28b327384)
 
 Threshold = 0.013470607995986936
+
 Number of anomalies = 2180
